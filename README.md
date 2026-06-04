@@ -108,3 +108,9 @@ FlappyBird-RL-Agent/
 
 ## 📜 License
 This project is open-source. Feel free to use, modify, and improve it!
+
+---
+
+👤 Author
+Qazim-07
+GitHub: Qazim-07
