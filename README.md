@@ -1,6 +1,3 @@
-Here’s an improved **README.md** for your **FlappyBird-RL-Agent** project, now incorporating the reinforcement learning workflow steps you listed for better clarity and structure:
-
-```markdown
 # 🧠 Flappy Bird RL Agent
 
 This project implements a **Deep Q-Network (DQN) agent** to play the classic **Flappy Bird** game using **Reinforcement Learning (RL)**.  
@@ -112,7 +109,3 @@ FlappyBird-RL-Agent/
 ## 📜 License
 This project is open-source. Feel free to use, modify, and improve it!
 ```
-
-This version highlights the **seven RL steps** you mentioned, making the README both educational and practical. It guides users through the setup, training, and testing process while emphasizing reinforcement learning concepts.  
-
-Would you like me to also add a **diagram of the RL loop (state → action → reward → next state)** to make the README more visually appealing?
