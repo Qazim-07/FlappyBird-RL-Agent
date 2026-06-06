@@ -66,6 +66,7 @@ The training process follows these key steps:
    git clone https://github.com/Qazim-07/FlappyBird-RL-Agent.git
    cd FlappyBird-RL-Agent
    ```
+   👉 If you want to stop the training process at any time, press Ctrl + C in the terminal.
 2. Train the agent:
    ```bash
    python train_agent.py
